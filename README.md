@@ -40,9 +40,3 @@ Let's build on this and share your ideas!
 
 ## [Todoist](https://todoist.com) using CARD
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-Todoist.jpg)
-
-<<<<<<< HEAD
-=======
-## [Google Tasks](https://mail.google.com/tasks/canvas?pli=1) using CARD (lacks some Action features)
-![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-google-tasks.jpg)
->>>>>>> 7dc779ae7daefcf72a71bb0cb27e9591517d657c
