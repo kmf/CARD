@@ -14,7 +14,7 @@ your success is my gain.
 ## CARD:
   - Capture - Everything ... in a system or app you trust
   - Action - Location - Tags - What and Where
-  - Rank - Importance - Time and Priority 
+  - Rank - Importance - Time and Priority - see this as Review
   - Do - Pretty Obvious
 
 The system can be used by most productivity applications.
