@@ -33,7 +33,7 @@ Let's build on this and share your ideas!
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-plaintasks-for-atom.jpg)
 
 ## [Plain Tasks](https://github.com/elentok/plaintasks.vim) for [VIM](http://www.vim.org/) using CARD
-![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-plaintasks-for-vim.jpg)
+![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-plaintasks-for-vim.png)
 
 ## [Todo+](https://github.com/fabiospampinato/vscode-todo-plus) for [VSCODE](https://code.visualstudio.com/) using CARD
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-todo-plus-for-vscode.png)
