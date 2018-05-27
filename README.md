@@ -35,6 +35,9 @@ Let's build on this and share your ideas!
 ## [Plain Tasks](https://github.com/elentok/plaintasks.vim) for [VIM](http://www.vim.org/) using CARD
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-plaintasks-for-vim.jpg)
 
+## [Todo+](https://github.com/fabiospampinato/vscode-todo-plus) for [VSCODE](https://code.visualstudio.com/) using CARD
+![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-todo-plus-for-vscode.png)
+
 ## [Remember the Milk](https://www.rememberthemilk.com/app/) using CARD
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-RememberTheMilk.jpg)
 
