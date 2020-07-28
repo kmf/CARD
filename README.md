@@ -11,6 +11,8 @@ CARD is supposed to be easy to use and easy to implement,
 multi platform and free of copyright and trademarks,
 your success is my gain.
 
+License: Attribution-ShareAlike 4.0 International
+
 ## CARD:
   - Capture - Everything ... in a system or app you trust
   - Action - Location - Tags - What and Where
