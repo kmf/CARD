@@ -7,7 +7,7 @@ and I appreciate what these people have tried to do.
 
 We need a Free\Libre system everyone can use adapt and build on.
 
-CARD is supposed to be easy to use and easy to implement,
+**CARD** is supposed to be easy to use and easy to implement,
 multi platform and free of copyright and trademarks,
 your success is my gain.
 
@@ -22,7 +22,8 @@ License: Attribution-ShareAlike 4.0 International
 The system can be used by most productivity applications.
 
 Let's build on this and share your ideas!
-## [Tasks](https://github.com/schemar/obsidian-tasks) on [Obsidian.md](https://obsidian.md)
+
+## [Tasks](https://github.com/schemar/obsidian-tasks) on [Obsidian.md](https://obsidian.md) using CARD
 ![2021-12-31 at 11 03 31](https://user-images.githubusercontent.com/78700/147814013-e2b84f22-03ec-4658-81f7-a85635094702.png)
 
 ## [TaskWarrior](https://taskwarrior.org/) using CARD
