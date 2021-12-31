@@ -16,12 +16,15 @@ License: Attribution-ShareAlike 4.0 International
 ## CARD:
   - Capture - Everything ... in a system or app you trust
   - Action - Location - Tags - What and Where
-  - Rank - Importance - Time and Priority - see this as Review
+  - Rank/Review - Importance - Time and Priority
   - Do - Pretty Obvious
 
 The system can be used by most productivity applications.
 
 Let's build on this and share your ideas!
+## [Tasks](https://github.com/schemar/obsidian-tasks) on [Obsidian.md](https://obsidian.md)
+![2021-12-31 at 11 03 31](https://user-images.githubusercontent.com/78700/147814013-e2b84f22-03ec-4658-81f7-a85635094702.png)
+
 ## [TaskWarrior](https://taskwarrior.org/) using CARD
 ![Example](https://raw.githubusercontent.com/kmf/CARD/master/CARD-taskwarrior.jpg)
 
